@@ -1,0 +1,32 @@
+Listening on wlan0
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 nithish                                  =>     1.45Kb     20.2Kb     18.1Kb     67.7KB
+     2603:1063:2000::12                       <=       240b     16.9Kb     7.35Kb     27.6KB
+   2 nithish                                  =>         0b     23.7Kb     16.7Kb     62.5KB
+     2603:1063:2001:1d03::365:ff1             <=         0b     1.07Kb     1.69Kb     6.32KB
+   3 nithish                                  =>     1.71Kb     1.71Kb     2.30Kb     8.62KB
+     2406:7400:b0:6::6710:cbf0                <=     2.23Kb     2.21Kb     3.14Kb     11.8KB
+   4 192.168.0.255                            =>         0b         0b         0b         0B
+     _gateway                                 <=     4.90Kb     0.98Kb       472b     1.73KB
+   5 nithish                                  =>       472b        94b       534b     1.96KB
+     _gateway                                 <=       844b       169b     1.06Kb     3.99KB
+   6 nithish                                  =>         0b       146b        49b       183B
+     2607:6bc0::10                            <=         0b        89b        30b       111B
+   7 nithish                                  =>         0b        89b       146b       549B
+     2603:1063:2001:1d26::365:ff1             <=         0b        58b       184b       689B
+   8 nithish                                  =>       404b        81b        73b       274B
+     2603:1061:1600:1945::365:c0              <=         0b         0b        26b        97B
+   9 nithish                                  =>         0b         0b        42b       156B
+     maa05s13-in-x0a.1e100.net                <=         0b         0b        55b       207B
+  10 mdns.mcast.net                           =>         0b         0b         0b         0B
+     192.168.0.3                              <=         0b         0b        46b       172B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     4.01Kb     46.1Kb     37.9Kb
+Total receive rate:                                  8.19Kb     21.5Kb     14.0Kb
+Total send and receive rate:                         12.2Kb     67.6Kb     51.9Kb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      135Kb     74.2Kb      209Kb
+Cumulative (sent/received/total):                     142KB     52.6KB      195KB
+============================================================================================
+
